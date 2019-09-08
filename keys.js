@@ -1,6 +1,6 @@
-console.log('this is totes loaded');
+console.log('this is loaded');
 
-exports.spotify = {
+exports.spotify1 = {
     id: process.env.SPOTIFY_ID,
     secret: process.env.SPOTIFY_SECRET
 };
